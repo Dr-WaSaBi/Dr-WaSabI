@@ -13,3 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ***drwasabi@tilde.team***
 - 😄 Pronouns: ***He/Him/Hey Old Dude***
 - ⚡ Fun fact: ***I still use cowsay daily***
+ ```
+ --------------------
+< Yeah, what he said >
+ --------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
