@@ -34,21 +34,6 @@ Here are some ideas to get you started:
 ```
 
 
-<img src="./img/programming-ninja-logo.jpg" alt="Ninja" width="75"/>
-
-- ### Programming Languages  
-
-
-|[<img src="./img/Go-logo.png" alt="VS Code" width="100"/>](https://code.visualstudio.com/) |[<img src="./img/java-logo.png" alt="VS Code" width="100"/>](https://code.visualstudio.com/) |[<img src="./img/python-logo.jpg" alt="VS Code" width="120"/>](https://code.visualstudio.com/) |[<img src="./img/c-lang-logo.png" alt="K & R C" width="100"/>](https://code.visualstudio.com/) |
-|---|---|---|---|
-|[<img src="./img/powershell-logo.png" alt="PowerShell" width="120"/>](https://code.visualstudio.com/) |
-
-
-### Tools
-
-| [<img src="./img/vs-code-logo.png" alt="VS Code" width="24"/>](https://code.visualstudio.com/) |[<img src="./img/nvim-logo.jpg" alt="nvim" width="24"/>](https://code.visualstudio.com/) | |
-|---|---|---|
-
 
 
 Hope you have a great day 🤗. Stay healthy, stay safe, and try to have a little fun.🤓
