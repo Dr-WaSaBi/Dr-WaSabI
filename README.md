@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 
 
 Hope you have a great day 🤗. Stay healthy, stay safe, and try to have a little fun.🤓
+![Twitter Follow](https://img.shields.io/twitter/follow/russellriker?style=social)
