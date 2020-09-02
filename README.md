@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: ***DB Backup scripts for some older hardware, using Batch files***😲
 - 🌱 I’m currently learning: ***Golang, PowerShell, Docker.***
 - 👯 I’m looking to collaborate on: ***FRC programming***🤖, ***Golang projects.***
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about: ***All most anything.  I've been working with computers since the late 80's.  I love vintage/retro hardware. 8-bit is home for me. Pretty much, if runs on a computer, I've more then likely used it.***
-- 📫 How to reach me: 📧***drwasabi@tilde.team*** 
+- 📫 How to reach me: 📧***drwasabi@tilde.team*** or ![Twitter Follow](https://img.shields.io/twitter/follow/russellriker?style=social)
+
 - 😄 Pronouns: ***He/Him/Hey Old Dude***
 - ⚡ Fun fact: ***I still use cowsay daily***
 
@@ -33,13 +33,13 @@ Here are some ideas to get you started:
                 ||     ||
 ```
 
-### Lanages I use:
+### Lanages I use, or am learning:
 
-![Badge](https://img.shields.io/badge/C%2FC%2B%2B-Oh%20Yeah-brightgreen?style=for-the-badge&logo=C++) ![Badge](https://img.shields.io/badge/Python-Love%20it-green?style=for-the-badge&logo=Python) ![Badge](https://img.shields.io/badge/Golang-Still%20Learning-yellow?style=for-the-badge&logo=Go) ![Badge](https://img.shields.io/badge/Java-Has%20its%20Uses-red?style=for-the-badge&logo=Java) 
+![Badge](https://img.shields.io/badge/C%2FC%2B%2B-Oh%20Yeah-brightgreen?style=for-the-badge&logo=C++) ![Badge](https://img.shields.io/badge/Python-Love%20it-green?style=for-the-badge&logo=Python) ![Badge](https://img.shields.io/badge/Golang-Still%20Learning-yellow?style=for-the-badge&logo=Go) ![Badge](https://img.shields.io/badge/Java-Has%20its%20Uses-red?style=for-the-badge&logo=Java) ![Badge](https://img.shields.io/badge/PowerShell-Find%20Interesting-brightgreeen?style=for-the-badge&logo=PowerShell) 
 
 
 
-### Tools 
+### Tools:
 
 
 
