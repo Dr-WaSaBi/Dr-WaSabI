@@ -33,6 +33,13 @@ Here are some ideas to get you started:
                 ||     ||
 ```
 
+### Lanages I use:
+
+![Badge](https://img.shields.io/badge/C%2FC%2B%2B-Oh%20Yeah-brightgreen?style=for-the-badge&logo=C++) ![Badge](https://img.shields.io/badge/Python-Love%20it-green?style=for-the-badge&logo=Python) ![Badge](https://img.shields.io/badge/Golang-Still%20Learning-yellow?style=for-the-badge&logo=Go) ![Badge](https://img.shields.io/badge/Java-Has%20its%20Uses-red?style=for-the-badge&logo=Java) 
+
+
+
+### Tools 
 
 
 
