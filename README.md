@@ -14,6 +14,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on: ***Having way to much fun playing in AoC-2020***😲
+	- if you want to have some fun with coding puzzles, check out [Advent of Code 2020](https://adventofcode.com/)
 - 🌱 I’m currently learning: ***Golang, PowerShell, Docker.***
 - 👯 I’m looking to collaborate on: ***FRC programming***🤖, ***Golang projects.***
 - 🤔 I’m looking for help with ... way to much to list here.
