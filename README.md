@@ -13,12 +13,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on: ***DB Backup scripts for some older hardware, using Batch files***😲
+- 🔭 I’m currently working on: ***Having way to much fun playing in AoC-2020***😲
 - 🌱 I’m currently learning: ***Golang, PowerShell, Docker.***
 - 👯 I’m looking to collaborate on: ***FRC programming***🤖, ***Golang projects.***
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... way to much to list here.
 - 💬 Ask me about: ***All most anything.  I've been working with computers since the late 80's.  I love vintage/retro hardware. 8-bit is home for me. Pretty much, if runs on a computer, I've more then likely used it.***
-- 📫 How to reach me: 📧***drwasabi@tilde.team*** 
+- 📫 How to reach me: 📧***russellriker@gmail.com*** 
 - 😄 Pronouns: ***He/Him/Hey Old Dude***
 - ⚡ Fun fact: ***I still use cowsay daily***
 
