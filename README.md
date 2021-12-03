@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on: ***Getting ready for Advent of Code 2021***😲
+- 🔭 I’m currently working on: ***Advent of Code 2021***😲
 	- if you want to have some fun with coding puzzles, check out [Advent of Code 2021](https://adventofcode.com/)
 - 🌱 I’m currently learning: ***Golang, PowerShell, Docker, .DotNet, C#, awk, and bash***
 - 👯 I’m looking to collaborate on: ***FRC programming***🤖, ***Golang projects.***, [***Gemini Prototal***](https://gemini.circumlunar.space/) type stuff.
