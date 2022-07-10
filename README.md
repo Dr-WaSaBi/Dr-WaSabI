@@ -35,12 +35,17 @@ Here are some ideas to get you started:
 ```
 
 ## Cool Projects
-|Nname  | Url:  |Description    |
+|Name  | Url:  |Description    |
 |-------|-------|---------------|
 |Fish   |Fishshell.org| Friendly Interactive Shell, has some great built in stuff, but it's not bash. |
 |Bla Bla|[blabla on git](https://github.com/blabla)| A kind of bla bla shell|
 |The Tildeverse|[Tilde Verse](https://tildeverse.org)|A network of free pubnix servers, you can find me on tilde.team|
 |Oh My Fish |   |Kind of a plug in manager for fish shell|
+
+## Other cool things I've found
+|Name   |Url:   |Description    |
+|-------|-------|---------------|
+
 
 Hope you have a great day 🤗. Stay healthy, stay safe, and try to have a little fun.🤓
 ![Twitter Follow](https://img.shields.io/twitter/follow/russellriker?style=social)
