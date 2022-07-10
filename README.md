@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on: ***PowerShell, Fish, Bash, Gemini and Gopher sites***😲
+- 🔭 I’m currently working on: ***PowerShell, Fish, Bash programming, Gemini and Gopher sites***😲
 	- if you want to have some fun with coding puzzles, check out [Advent of Code 2021](https://adventofcode.com/)
 - 🌱 I’m currently learning: ***Golang, PowerShell, .DotNet, C#, Fish, and bash***
 - 👯 I’m looking to collaborate on: ***FRC programming***🤖, ***Golang projects.***, [***Gemini Prototal***](https://gemini.circumlunar.space/) type stuff.
@@ -34,8 +34,13 @@ Here are some ideas to get you started:
                 ||     ||    💩
 ```
 
-
-
+## Cool Projects
+|Nname  | Url:  |Description    |
+|-------|-------|---------------|
+|Fish   |Fishshell.org| Friendly Interactive Shell, has some great built in stuff, but it's not bash. |
+|Bla Bla|[blabla on git](https://github.com/blabla)| A kind of bla bla shell|
+|The Tildeverse|[Tilde Verse](https://tildeverse.org)|A network of free pubnix servers, you can find me on tilde.team|
+|Oh My Fish |   |Kind of a plug in manager for fish shell|
 
 Hope you have a great day 🤗. Stay healthy, stay safe, and try to have a little fun.🤓
 ![Twitter Follow](https://img.shields.io/twitter/follow/russellriker?style=social)
